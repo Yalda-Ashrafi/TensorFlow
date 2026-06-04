@@ -30,5 +30,4 @@ Open the notebook in Google Colab and run all cells sequentially:
 tensorflow.ipynb
 
 
-bash
 tensorflow.ipynb
